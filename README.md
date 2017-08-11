@@ -1,7 +1,5 @@
 # React Weather App
 
-This is the companion code for the React series on the [Scotch School](https://school.scotch.io/).
-
 ## Setup
 
 Clone the project, install the dependencies, and run the project.
